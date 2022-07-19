@@ -1,1 +1,1 @@
-# practice_sqlalchemy
+# practice_python_orm
